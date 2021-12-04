@@ -1,0 +1,15 @@
+[
+{
+	"modid": "neko",
+	"name": "Neko",
+	"description": "1.12.2 Anarchy Client.",
+	"version": "${version}",
+	"mcversion": "1.12.2",
+	"url": "",
+	"authorList": ["Water_Chocolate"],
+	"credits": "",
+	"logoFile": "",
+	"screenshots": [],
+	"dependencies": []
+}
+]

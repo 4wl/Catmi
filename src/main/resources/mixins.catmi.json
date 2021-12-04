@@ -1,0 +1,28 @@
+{
+"required": true,
+"compatibilityLevel": "JAVA_8",
+"package": "me.catmi.mixin.mixins",
+"refmap": "mixins.catmi.refmap.json",
+"mixins": [
+	"MixinNetworkManager",
+	"MixinEntity",
+	"MixinGuiNewChat",
+	"MixinEntityRenderer",
+	"MixinAbstractClientPlayer",
+	"MixinLayerBipedArmor",
+	"MixinPlayerControllerMP",
+	"MixinEntityPlayer",
+	"MixinBlockSoulSand",
+	"MixinEntityPlayerSP",
+	"MixinMinecraft",
+	"MixinGuiPlayerTabOverlay",
+	"MixinGuiBossOverlay",
+	"MixinShulkerViewer",
+	"MixinNametags",
+	"MixinWorld",
+	"MixinPlayerOverlay",
+	"MixinBlockLiquid",
+	"MixinESP",
+	"MixinItemRenderer"
+]
+}
